@@ -1,0 +1,8 @@
+Depuis chrome :
+1. lancer le gestionnaire d'extensions : chrome://extensions/
+2. en haut à droite activer le mode developpeur
+3. en haut à gauche cliquer sur "Charger l'extension non empaquetée"
+4. Sélectionner le dossier contenant tous les fichiers .html, .json et .js
+5. Relancer la console F12.
+
+Pour générer un skeleton, cliquer sur un élément du DOM, un nouvel onglet 'Skeletons' est présent (voir fichier screenshot.png)

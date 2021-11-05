@@ -1,0 +1,8 @@
+{
+    "manifest_version": 2,
+    "name": "Syfadis Skeleton Builder",
+    "description": "",
+    "version": "0.1",
+    "permissions": ["activeTab"],
+    "devtools_page": "devtools.html"
+}
